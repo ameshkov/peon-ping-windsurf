@@ -23,12 +23,12 @@ so your IDE sounds like Orgrimmar.
 
 ## What you'll hear
 
-| Event | Sound | Examples |
-| --- | --- | --- |
-| Cascade finishes responding | Complete | *"Ready to work?"*, *"Work, work."*, *"Something need doing?"* |
-| Cascade writes code | Acknowledge | *"I can do that."*, *"Okie dokie."*, *"Be happy to."* |
-| Cascade runs a command | Acknowledge | *"OK."*, *"Work, work."* |
-| Rapid prompts (3+ in 10s) | Easter egg | *"Me busy, leave me alone!"* |
+| Event                       | Sound       | Examples                                                       |
+| --------------------------- | ----------- | -------------------------------------------------------------- |
+| Cascade finishes responding | Complete    | *"Ready to work?"*, *"Work, work."*, *"Something need doing?"* |
+| Cascade writes code         | Acknowledge | *"I can do that."*, *"Okie dokie."*, *"Be happy to."*          |
+| Cascade runs a command      | Acknowledge | *"OK."*, *"Work, work."*                                       |
+| Rapid prompts (3+ in 10s)   | Easter egg  | *"Me busy, leave me alone!"*                                   |
 
 > [!NOTE]
 > Examples above are from the default Orc Peon pack.
@@ -153,19 +153,25 @@ non-annoyed category from the list is used.
 
 ## Sound packs
 
-| Pack | Character | By |
-| --- | --- | --- |
-| `peon` (default) | Orc Peon (Warcraft III) | [@tonyyont](https://github.com/tonyyont) |
-| `peon_fr` | Orc Peon (French) | [@thomasKn](https://github.com/thomasKn) |
-| `peon_pl` | Orc Peon (Polish) | [@askowronski](https://github.com/askowronski) |
-| `peon_ru` | Orc Peon (Russian) | [@maksimfedin](https://github.com/maksimfedin) |
-| `peasant` | Human Peasant (Warcraft III) | [@thomasKn](https://github.com/thomasKn) |
-| `peasant_fr` | Human Peasant (French) | [@thomasKn](https://github.com/thomasKn) |
-| `peasant_ru` | Human Peasant (Russian) | [@maksimfedin](https://github.com/maksimfedin) |
-| `acolyte_ru` | Undead Acolyte (Russian) | [@maksimfedin](https://github.com/maksimfedin) |
-| `ra2_soviet_engineer` | Soviet Engineer (Red Alert 2) | [@msukkari](https://github.com/msukkari) |
-| `sc_battlecruiser` | Battlecruiser (StarCraft) | [@garysheng](https://github.com/garysheng) |
-| `sc_kerrigan` | Sarah Kerrigan (StarCraft) | [@garysheng](https://github.com/garysheng) |
+| Pack                    | Character                      | By                                             |
+| ----------------------- | ------------------------------ | ---------------------------------------------- |
+| `peon` (default)        | Orc Peon (Warcraft III)        | [@tonyyont](https://github.com/tonyyont)       |
+| `peon_fr`               | Orc Peon (French)              | [@thomasKn](https://github.com/thomasKn)       |
+| `peon_pl`               | Orc Peon (Polish)              | [@askowronski](https://github.com/askowronski) |
+| `peon_ru`               | Orc Peon (Russian)             | [@maksimfedin](https://github.com/maksimfedin) |
+| `peasant`               | Human Peasant (Warcraft III)   | [@thomasKn](https://github.com/thomasKn)       |
+| `peasant_fr`            | Human Peasant (French)         | [@thomasKn](https://github.com/thomasKn)       |
+| `peasant_ru`            | Human Peasant (Russian)        | [@maksimfedin](https://github.com/maksimfedin) |
+| `acolyte_ru`            | Undead Acolyte (Russian)       | [@maksimfedin](https://github.com/maksimfedin) |
+| `ra2_soviet_engineer`   | Soviet Engineer (Red Alert 2)  | [@msukkari](https://github.com/msukkari)       |
+| `sc_battlecruiser`      | Battlecruiser (StarCraft)      | [@garysheng](https://github.com/garysheng)     |
+| `sc_kerrigan`           | Sarah Kerrigan (StarCraft)     | [@garysheng](https://github.com/garysheng)     |
+| `sc_firebat`            | Firebat (StarCraft)            | [@workdd](https://github.com/workdd)           |
+| `sc_medic`              | Medic (StarCraft)              | [@workdd](https://github.com/workdd)           |
+| `sc_scv`                | SCV (StarCraft)                | [@workdd](https://github.com/workdd)           |
+| `sc_tank`               | Siege Tank (StarCraft)         | [@workdd](https://github.com/workdd)           |
+| `sc_terran`             | Terran All Units (StarCraft)   | [@workdd](https://github.com/workdd)           |
+| `sc_vessel`             | Science Vessel (StarCraft)     | [@workdd](https://github.com/workdd)           |
 
 Switch packs by editing `config.json`:
 
