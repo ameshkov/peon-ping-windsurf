@@ -1,0 +1,57 @@
+{
+  "name": "peasant_ru",
+  "display_name": "Human Peasant (Russian)",
+  "categories": {
+    "greeting": {
+      "sounds": [
+        { "file": "PeasantReady1.wav", "line": "Готово." },
+        { "file": "PeasantWhat1.wav", "line": "Да, господин?" },
+        { "file": "PeasantWhat3.wav", "line": "Опять работа?!" }
+      ]
+    },
+    "acknowledge": {
+      "sounds": [
+        { "file": "PeasantYes1.wav", "line": "Хорошо." },
+        { "file": "PeasantYes2.wav", "line": "Да, господин." },
+        { "file": "PeasantYes3.wav", "line": "Ладно." },
+        { "file": "PeasantYes4.wav", "line": "Ну, я пошёл!" }
+      ]
+    },
+    "complete": {
+      "sounds": [
+        { "file": "PeasantReady1.wav", "line": "Готово." },
+        { "file": "PeasantYes1.wav", "line": "Хорошо." },
+        { "file": "PeasantYes2.wav", "line": "Да, господин." },
+        { "file": "PeasantWhat4.wav", "line": "Ещё работа?" }
+      ]
+    },
+    "error": {
+      "sounds": [
+        { "file": "PeasantDeath.wav", "line": "Ну вот, меня убьют." },
+        { "file": "PeasantYesAttack4.wav", "line": "Вам меня не жалко?" }
+      ]
+    },
+    "permission": {
+      "sounds": [
+        { "file": "PeasantWhat1.wav", "line": "Да, господин?" },
+        { "file": "PeasantWhat2.wav", "line": "Чего?" },
+        { "file": "PeasantWhat4.wav", "line": "Ещё работа?" },
+        { "file": "PeasantWhat3.wav", "line": "Опять работа?!" }
+      ]
+    },
+    "resource_limit": {
+      "sounds": [
+        { "file": "PeasantWarcry1.wav", "line": "Придётся драться!" }
+      ]
+    },
+    "annoyed": {
+      "sounds": [
+        { "file": "PeasantPissed1.wav", "line": "Ты что ли король? А я за тебя не голосовал!" },
+        { "file": "PeasantPissed2.wav", "line": "Мы поймали ведьму, можно мы её сожжём?" },
+        { "file": "PeasantPissed3.wav", "line": "Помогите! На меня давят!" },
+        { "file": "PeasantPissed4.wav", "line": "Меня только что пнула лошадь. Это больно." },
+        { "file": "PeasantPissed5.wav", "line": "Работа не волк, в лес не убежит." }
+      ]
+    }
+  }
+}

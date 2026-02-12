@@ -1,0 +1,25 @@
+{
+  "active_pack": "peon",
+  "volume": 1,
+  "enabled": true,
+  "hooks": {
+    "post_cascade_response": {
+      "enabled": true,
+      "categories": ["complete"]
+    },
+    "pre_user_prompt": {
+      "enabled": true,
+      "categories": ["greeting"]
+    },
+    "post_write_code": {
+      "enabled": true,
+      "categories": ["acknowledge"]
+    },
+    "post_run_command": {
+      "enabled": true,
+      "categories": ["acknowledge"]
+    }
+  },
+  "annoyed_threshold": 3,
+  "annoyed_window_seconds": 10
+}
