@@ -164,6 +164,7 @@ non-annoyed category from the list is used.
 | `peasant_ru`            | Human Peasant (Russian)        | [@maksimfedin](https://github.com/maksimfedin) |
 | `acolyte_ru`            | Undead Acolyte (Russian)       | [@maksimfedin](https://github.com/maksimfedin) |
 | `ra2_soviet_engineer`   | Soviet Engineer (Red Alert 2)  | [@msukkari](https://github.com/msukkari)       |
+| `ra2_kirov`             | Kirov Airship (Red Alert 2)    | [@i-zhirov](https://github.com/i-zhirov)       |
 | `sc_battlecruiser`      | Battlecruiser (StarCraft)      | [@garysheng](https://github.com/garysheng)     |
 | `sc_kerrigan`           | Sarah Kerrigan (StarCraft)     | [@garysheng](https://github.com/garysheng)     |
 | `sc_firebat`            | Firebat (StarCraft)            | [@workdd](https://github.com/workdd)           |
